@@ -1,14 +1,14 @@
 
-QR Code Card 
-IT IS MY FIRST PROJECT 
-First i learned HTML & CSS
-What were these : <head>,<body>,<h1>,<p>,<div>
-  Then learn how to make them move top to button, or left to right 
-  Also learn how to change color
-  Also learn how to change background
-  Also learn how to change font-size
-  Also meaninng of Box Model 
-  what was meaning and how was working <style>
+#QR Code Card 
+##IT IS MY FIRST PROJECT 
+#First i learned HTML & CSS
+#What were these : <head>,<body>,<h1>,<p>,<div>
+  #Then learn how to make them move top to button, or left to right 
+  #Also learn how to change color
+  #Also learn how to change background
+  #Also learn how to change font-size
+  #Also meaninng of Box Model 
+  #what was meaning and how was working <style>
 
 <!DOCTYPE html>
 <html lang="en">
